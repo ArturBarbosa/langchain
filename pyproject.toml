@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "altered_langchain"
+name = "langchain"
 version = "0.0.233"
 description = "Building applications with LLMs through composability"
 authors = []
